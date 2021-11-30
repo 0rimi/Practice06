@@ -4,8 +4,8 @@ public class Shape {
 	
 	
 	//필드
-	private String fillColor;
-	private String lineColor;
+	protected String fillColor;
+	protected String lineColor;
 	
 	
 	//생성자
